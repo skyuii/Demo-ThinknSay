@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ThinknSay</string>
+    <string name="what_level_you_want_to_play">What level you want to play?</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="select_player">Select Player</string>
+    <string name="what_category_you_want_to_play">What Category you want to play?</string>
+    <string name="place">Place</string>
+    <string name="family">Family</string>
+    <string name="choose_it">Choose it</string>
+    <string name="asia">Asia</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="fruits">Fruits</string>
+    <string name="body">Body</string>
+    <string name="occupation">Occupation</string>
+    <string name="beverages">Beverages</string>
+    <string name="festival">Festival</string>
+    <string name="colors">Colors</string>
+    <string name="sport">Sport</string>
+    <string name="galaxy">Galaxy</string>
+    <string name="country">Country</string>
+    <string name="europe">Europe</string>
+</resources>
