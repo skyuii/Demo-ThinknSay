@@ -21,4 +21,8 @@
     <string name="galaxy">Galaxy</string>
     <string name="country">Country</string>
     <string name="europe">Europe</string>
+    <string name="mode">Mode</string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="todo">TODO</string>
 </resources>

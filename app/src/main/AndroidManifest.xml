@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PlayScreen"></activity>
+        <activity android:name=".StopScreen"></activity>
+        <activity android:name=".PlayScreen" />
         <activity android:name=".SelectCategory" />
         <activity android:name=".SelectMode" />
         <activity android:name=".MainActivity">
